@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHAPI_API", "SHAPI_API\SHAPI_API.csproj", "{CA70C0F9-53F2-46B3-B07E-D8B9C45770EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHAPI_ClassLibrary", "SHAPI_ClassLibrary\SHAPI_ClassLibrary.csproj", "{96E66568-6FAF-49B6-8FB9-7D41496DCB45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CA70C0F9-53F2-46B3-B07E-D8B9C45770EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA70C0F9-53F2-46B3-B07E-D8B9C45770EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA70C0F9-53F2-46B3-B07E-D8B9C45770EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E66568-6FAF-49B6-8FB9-7D41496DCB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E66568-6FAF-49B6-8FB9-7D41496DCB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E66568-6FAF-49B6-8FB9-7D41496DCB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E66568-6FAF-49B6-8FB9-7D41496DCB45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
